@@ -3,7 +3,7 @@ using ToDoApp.Models;
 
 public interface ITodoStore
 {
-    IEnumerable<Todo> GetAll();//IEnamerable bir liste tutabilen arayüz
+    IEnumerable<Todo> GetAll();
     IEnumerable<Todo> Search(String? term, TodoPriority? priority, bool? isDone, bool? dueDateAsc);
     Todo? Get(Guid id);
     void Add(Todo todo);
