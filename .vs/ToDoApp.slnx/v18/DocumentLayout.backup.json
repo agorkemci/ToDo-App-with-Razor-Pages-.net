@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ToDoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|ToDoApp.csproj|c:\\users\\acer\\desktop\\asp.net\\statik web sitesi\\todoapp\\pages\\todos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|ToDoApp.csproj|solutionrelative:pages\\todos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|ToDoApp.csproj|c:\\users\\acer\\desktop\\asp.net\\statik web sitesi\\todoapp\\pages\\todos\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|ToDoApp.csproj|solutionrelative:pages\\todos\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|ToDoApp.csproj|c:\\users\\acer\\desktop\\asp.net\\statik web sitesi\\todoapp\\pages\\todos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|ToDoApp.csproj|solutionrelative:pages\\todos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|ToDoApp.csproj|c:\\users\\acer\\desktop\\asp.net\\statik web sitesi\\todoapp\\pages\\todos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|ToDoApp.csproj|solutionrelative:pages\\todos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|ToDoApp.csproj|c:\\users\\acer\\desktop\\asp.net\\statik web sitesi\\todoapp\\pages\\todos\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|ToDoApp.csproj|solutionrelative:pages\\todos\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|ToDoApp.csproj|c:\\users\\acer\\desktop\\asp.net\\statik web sitesi\\todoapp\\pages\\todos\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|ToDoApp.csproj|solutionrelative:pages\\todos\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|ToDoApp.csproj|c:\\users\\acer\\desktop\\asp.net\\statik web sitesi\\todoapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|ToDoApp.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|ToDoApp.csproj|c:\\users\\acer\\desktop\\asp.net\\statik web sitesi\\todoapp\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|ToDoApp.csproj|solutionrelative:models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|ToDoApp.csproj|c:\\users\\acer\\desktop\\asp.net\\statik web sitesi\\todoapp\\services\\inmemorytodostore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|ToDoApp.csproj|solutionrelative:services\\inmemorytodostore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|ToDoApp.csproj|c:\\users\\acer\\desktop\\asp.net\\statik web sitesi\\todoapp\\pages\\todos\\_todoformmodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|ToDoApp.csproj|solutionrelative:pages\\todos\\_todoformmodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|ToDoApp.csproj|c:\\users\\acer\\desktop\\asp.net\\statik web sitesi\\todoapp\\models\\todopriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|ToDoApp.csproj|solutionrelative:models\\todopriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|ToDoApp.csproj|c:\\users\\acer\\desktop\\asp.net\\statik web sitesi\\todoapp\\pages\\todos\\_todoformmodel.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|ToDoApp.csproj|solutionrelative:pages\\todos\\_todoformmodel.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|ToDoApp.csproj|c:\\users\\acer\\desktop\\asp.net\\statik web sitesi\\todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|ToDoApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|ToDoApp.csproj|c:\\users\\acer\\desktop\\asp.net\\statik web sitesi\\todoapp\\services\\itodostore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|ToDoApp.csproj|solutionrelative:services\\itodostore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|ToDoApp.csproj|c:\\users\\acer\\desktop\\asp.net\\statik web sitesi\\todoapp\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|ToDoApp.csproj|solutionrelative:pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|ToDoApp.csproj|c:\\users\\acer\\desktop\\asp.net\\statik web sitesi\\todoapp\\todoapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|ToDoApp.csproj|solutionrelative:todoapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ToDoApp\\Pages\\Todos\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Todos\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ToDoApp\\Pages\\Todos\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Todos\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T12:49:24.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ToDoApp\\Pages\\Todos\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Todos\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ToDoApp\\Pages\\Todos\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Todos\\Index.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T14:12:39.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ToDoApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ToDoApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-18T13:33:20.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ToDoApp\\Pages\\Todos\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Todos\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ToDoApp\\Pages\\Todos\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Todos\\Edit.cshtml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T05:53:04.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ToDoApp\\Pages\\Todos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Todos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ToDoApp\\Pages\\Todos\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Todos\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAHUAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-18T13:55:36.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ToDoApp\\Pages\\Todos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Todos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ToDoApp\\Pages\\Todos\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Todos\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-20T05:45:05.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ToDoApp\\Pages\\Todos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Todos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ToDoApp\\Pages\\Todos\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Todos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-19T12:31:57.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InMemoryTodoStore.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ToDoApp\\Services\\InMemoryTodoStore.cs",
+              "RelativeDocumentMoniker": "Services\\InMemoryTodoStore.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ToDoApp\\Services\\InMemoryTodoStore.cs",
+              "RelativeToolTip": "Services\\InMemoryTodoStore.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAjwEYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T08:21:35.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TodoPriority.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ToDoApp\\Models\\TodoPriority.cs",
+              "RelativeDocumentMoniker": "Models\\TodoPriority.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ToDoApp\\Models\\TodoPriority.cs",
+              "RelativeToolTip": "Models\\TodoPriority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T07:02:07.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ToDoApp\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "Models\\Todo.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ToDoApp\\Models\\Todo.cs",
+              "RelativeToolTip": "Models\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T06:53:05.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_TodoFormModel.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ToDoApp\\Pages\\Todos\\_TodoFormModel.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Todos\\_TodoFormModel.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ToDoApp\\Pages\\Todos\\_TodoFormModel.cshtml",
+              "RelativeToolTip": "Pages\\Todos\\_TodoFormModel.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-19T12:03:25.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_TodoFormModel.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ToDoApp\\Pages\\Todos\\_TodoFormModel.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Todos\\_TodoFormModel.cshtml.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ToDoApp\\Pages\\Todos\\_TodoFormModel.cshtml.cs",
+              "RelativeToolTip": "Pages\\Todos\\_TodoFormModel.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T05:55:39.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ToDoApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ToDoApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAClAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T06:40:21.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITodoStore.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ToDoApp\\Services\\ITodoStore.cs",
+              "RelativeDocumentMoniker": "Services\\ITodoStore.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ToDoApp\\Services\\ITodoStore.cs",
+              "RelativeToolTip": "Services\\ITodoStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T07:07:34.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ToDoApp\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ToDoApp\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-18T07:05:32.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ToDoApp.csproj",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ToDoApp\\ToDoApp.csproj",
+              "RelativeDocumentMoniker": "ToDoApp.csproj",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\asp.net\\statik web sitesi\\ToDoApp\\ToDoApp.csproj",
+              "RelativeToolTip": "ToDoApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-18T07:06:38.626Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

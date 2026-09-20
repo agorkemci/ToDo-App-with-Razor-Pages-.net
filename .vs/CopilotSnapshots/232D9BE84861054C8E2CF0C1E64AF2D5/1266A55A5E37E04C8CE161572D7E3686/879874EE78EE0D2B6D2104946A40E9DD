@@ -1,0 +1,23 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+using ToDoApp.Models;
+using ToDoApp.Services;
+
+namespace ToDoApp.Pages.Todos
+
+{
+    public class IndexModel : PageModel
+    {
+        private readonly ITodoStore _store;
+        public IEnumerable<Todo> Items { get; private set; }=Enumerable.Empty<Todo>();  //public IEnumerable<Todo> Items: Sayfanın HTML (Razor) tarafının okuyacağı vitrindir. Enumerable.Empty<Todo>() ile başlatılmasının sebebi, sayfa ilk yüklendiğinde liste null kalıp ön yüzde hata (NullReferenceException) patlatmasın diye içi boş güvenli bir liste vermektir.
+
+        public IndexModel(ITodoStore store)
+        {
+            _store = store;
+        }
+        public void OnGet()
+        {
+            Items = _store.GetAll();
+        }
+    }
+}
